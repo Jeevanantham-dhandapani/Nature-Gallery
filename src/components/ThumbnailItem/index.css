@@ -1,0 +1,11 @@
+li {
+  list-style: none;
+}
+.thumb-btn {
+  border: 0;
+  background-color: transparent;
+}
+.not-active-img {
+  color: #ffffff;
+  opacity: 0.5;
+}
